@@ -1,0 +1,12 @@
+{
+  "codeConnect": {
+    "include": [
+      "src/figma/primitives/button/Button.figma.ts"
+    ],
+    "language": "jsx",
+    "label": "React",
+    "documentUrlSubstitutions": {
+      "<FIGMA_BUTTONS_BUTTON>": "https://www.figma.com/design/qYqemgHDAiOJ4O2bUg9jRA?node-id=4185-3778"
+    }
+  }
+}
